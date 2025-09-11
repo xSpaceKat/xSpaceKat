@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F797FF&width=435&lines=Welcome+to+my+GitHub!;Software+Engineering+Student;Always+curious+%F0%9F%98%8E;Building+cool+stuff+with+code!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=ff0000&width=435&lines=Welcome+to+my+GitHub!;Software+Engineering+Student;Busy+gaming+%F0%9F%98%8E;Building+cool+stuff+with+code!" alt="Typing SVG" />
   <!-- Tal vez esto tenga que cambiarlo no me gusta tanto JAJAJA -->
 </p>
 
