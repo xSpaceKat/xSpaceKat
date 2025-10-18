@@ -12,7 +12,7 @@
 ### 👩‍💻 About Me
 
 - 🐾 Creative, fun, and always full of opinions.
-- 💡 I love problem-solving and building **creative projects**.
+- 💡 I love building **creative projects**.
 - 🌱 Currently exploring **Node.js & Python**.
 - 💬 Ask me about **Java, HTML or CSS**. I'm always happy to help!
 - 🪐 Fun Fact: I love art, videogames, and cats! 
