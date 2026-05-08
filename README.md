@@ -20,6 +20,14 @@
 
 ---
 
+## 🌐 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kathya-margarita-c%C3%B3rdova-soto-b55a51381/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
+</p>
+
+---
+
 ### 🎧 Now Playing . . .
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21rpunfbypgs36xjrcgwufwgq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
